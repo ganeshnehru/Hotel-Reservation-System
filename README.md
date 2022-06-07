@@ -18,7 +18,6 @@
 - Step 8 : Change directory to the HotelReservationSystem
 - Step 9 : Right click the HotelReservationSystem folder and select "Run as" -> "Maven Build" to run the backend
 
-
 ## Feature Set
 ### Customer
 1. Register
@@ -35,3 +34,18 @@
 ### Admin
 1. Authenticate Admin identity
 2. Display all reservations in admin page
+
+## Architecture Diagram
+
+### Activity diagram
+![ActivityDiagram](Activity_diagram.png)
+
+### Sub Activity diagram
+![SubActivityDiagram](SubActivity_diagram.png)
+
+### Use Cases diagram
+![UseCasesDiagram](UseCases_diagram.png)
+
+### Deployment diagram
+![DeploymentDiagram](Deployment_diagram.png)
+
