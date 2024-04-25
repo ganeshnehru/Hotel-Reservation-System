@@ -3,7 +3,7 @@
 ## Design decisions
 - Frontend - HTML, CSS, and React JS
 - Backend - Java Spring boot (maven)
-- Database - Heroku(ClearDB)
+- Database - MySQL
 - Server - Heroku
 - UI - Material UI
 
